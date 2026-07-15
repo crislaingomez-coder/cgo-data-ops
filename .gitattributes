@@ -1,0 +1,5 @@
+# O relatório HTML é uma saída gerada pelo código Python.
+reports/*.html linguist-generated=true
+
+# Imagens da identidade visual não devem influenciar a linguagem do projeto.
+assets/*.png linguist-detectable=false
