@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.pyc
+data/private/
+reports/*.html
+!reports/commerce_ops_intelligence.html
+!reports/.gitkeep

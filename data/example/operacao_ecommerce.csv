@@ -1,0 +1,29 @@
+date,channel,carrier,state,orders,revenue,freight_cost,avg_delivery_days,on_time_orders,returns,cancelled_orders,support_tickets
+2026-06-01,Marketplace,EntregaSul,CE,148,28740.50,3120.40,3.2,136,7,4,6
+2026-06-01,Loja Online,RotaExpress,SP,205,46830.10,4214.70,2.6,194,6,5,7
+2026-06-01,Ship From Store,LogNorte,BA,96,18420.00,2380.20,4.8,76,9,7,11
+2026-06-01,Loja Online,EntregaSul,PE,82,15930.30,1940.10,3.9,70,6,4,8
+2026-06-02,Marketplace,EntregaSul,CE,157,30118.90,3288.30,3.4,141,8,5,7
+2026-06-02,Loja Online,RotaExpress,SP,218,49775.40,4496.10,2.7,204,7,5,8
+2026-06-02,Ship From Store,LogNorte,BA,103,19880.20,2514.60,5.1,78,12,9,14
+2026-06-02,Loja Online,EntregaSul,PE,88,17110.60,2070.40,4.0,73,7,5,9
+2026-06-03,Marketplace,EntregaSul,CE,166,32490.00,3410.80,3.1,153,6,4,6
+2026-06-03,Loja Online,RotaExpress,SP,226,52140.60,4612.30,2.5,215,5,4,6
+2026-06-03,Ship From Store,LogNorte,BA,111,21650.75,2698.90,5.3,82,13,10,16
+2026-06-03,Marketplace,EntregaSul,PE,92,18120.80,2160.20,4.1,75,8,6,10
+2026-06-04,Marketplace,EntregaSul,CE,172,33670.20,3522.40,3.3,157,9,5,8
+2026-06-04,Loja Online,RotaExpress,SP,231,53990.80,4730.20,2.6,219,6,4,7
+2026-06-04,Ship From Store,LogNorte,BA,118,22950.40,2810.50,5.5,85,15,11,18
+2026-06-04,Marketplace,EntregaSul,PE,98,19270.40,2280.50,4.3,78,9,7,12
+2026-06-05,Marketplace,EntregaSul,CE,181,35410.60,3690.10,3.5,163,10,6,9
+2026-06-05,Loja Online,RotaExpress,SP,240,56115.30,4918.40,2.8,226,7,5,8
+2026-06-05,Ship From Store,LogNorte,BA,124,24180.90,2944.80,5.7,87,17,13,21
+2026-06-05,Loja Online,EntregaSul,PE,104,20510.70,2410.90,4.5,81,11,8,14
+2026-06-06,Marketplace,EntregaSul,CE,190,37188.40,3810.90,3.6,169,12,7,11
+2026-06-06,Loja Online,RotaExpress,SP,247,57880.00,5070.10,2.9,230,8,6,9
+2026-06-06,Ship From Store,LogNorte,BA,130,25210.50,3088.60,5.9,89,19,15,24
+2026-06-06,Loja Online,EntregaSul,PE,110,21720.30,2575.40,4.7,84,13,9,17
+2026-06-07,Marketplace,EntregaSul,CE,198,38940.70,3970.20,3.7,174,14,8,12
+2026-06-07,Loja Online,RotaExpress,SP,255,60110.50,5220.70,3.0,236,9,6,10
+2026-06-07,Ship From Store,LogNorte,BA,137,26880.90,3260.30,6.2,91,22,17,28
+2026-06-07,Marketplace,EntregaSul,PE,117,23140.80,2740.60,4.9,87,15,10,19
