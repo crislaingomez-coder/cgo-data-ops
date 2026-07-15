@@ -8,9 +8,13 @@
 
 `Python` `Pandas` `Data Quality` `E-commerce` `Logística` `Automação de Relatórios`
 
+![Testes](https://img.shields.io/badge/testes-8%20aprovados-1f7a4d?style=flat-square)
+
 </div>
 
 > Case autoral da CGO Data, construído com dados 100% sintéticos. Não utiliza informações de empresas, clientes ou processos seletivos.
+
+![Prévia do relatório Commerce Ops Intelligence](assets/commerce-ops-preview.png)
 
 ## Problema de negócio
 
@@ -88,6 +92,16 @@ reports/commerce_ops_intelligence.html
 
 Abra esse arquivo no navegador. Ele é independente e já contém a logo e a marca-d'água CGO Data.
 
+## Testes automatizados
+
+O projeto possui testes para validação do schema, dados inválidos, duplicidades, consistência entre pedidos e entregas, cálculo dos indicadores, ranking de risco e plano de ação.
+
+Execute com:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
 ## Estrutura do projeto
 
 ```text
@@ -96,6 +110,7 @@ cgo-data-ops/
 ├── data/example/       # Dataset sintético para demonstração
 ├── reports/            # Relatórios gerados localmente
 ├── src/analyze.py      # Validação, análise e geração do relatório
+├── tests/               # Testes automatizados das regras de negócio
 ├── requirements.txt
 └── README.md
 ```
